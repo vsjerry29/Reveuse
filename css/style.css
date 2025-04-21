@@ -1024,7 +1024,7 @@ blockquote cite:before {
         padding: 26px 0 26px 15px;
     }
     .nav-scroll .logo-wrapper {
-        padding: 27px 15px;
+        padding: 0px 15px;
         background-color: transparent;
     }
     .nav-scroll .logo-img {
