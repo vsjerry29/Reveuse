@@ -67,7 +67,7 @@ body {
 }
 p {
     font-family: 'Barlow', sans-serif;
-    font-size: 15px;
+    font-size: 18px;
     font-weight: 400;
     line-height: 1.75em;
     color: #2b2b2b;
@@ -1147,7 +1147,7 @@ blockquote cite:before {
     position: relative;
     margin-bottom: 0;
     font-family: 'Oswald', sans-serif;
-    font-size: 75px;
+    font-size: 45px;
     text-transform: uppercase;
     -webkit-animation-delay: .4s;
     animation-delay: .4s;
